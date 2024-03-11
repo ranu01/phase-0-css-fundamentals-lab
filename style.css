@@ -1,5 +1,14 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: 0%;
+}
+.nap {
+  text-align: center;
+}
+#details {
+  background: red;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
